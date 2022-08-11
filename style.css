@@ -1,5 +1,15 @@
-body { 
-    background-color: blanchedalmond; text-align: justify;
-    }
-    h1 {color: darkgreen;}
-</body>
+body {
+    background-color: rgb(205, 223, 255);
+    text-align: justify;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+#imagem1 {
+    border: 5px solid rgb(0, 1, 2);
+    width: 20%;
+    padding: 10px;
+    margin: 5px;
+}
