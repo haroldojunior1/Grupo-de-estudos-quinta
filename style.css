@@ -13,3 +13,12 @@ h1 {
     padding: 10px;
     margin: 5px;
 }
+li:marker {
+content: "\2606";
+color: darkgreen;
+font-size: 30px
+}
+
+.itens {
+    background-color: black;
+}
